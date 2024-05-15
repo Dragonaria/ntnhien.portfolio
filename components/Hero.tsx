@@ -18,8 +18,25 @@ export default function Hero() {
                 <p className="text-lg font-normal mb-4">
                     I&#39;m a full-stack developer in Ho Chi Minh City, Vietnam.
                 </p>
-                <div className="social-icons">
-                    Socials
+                <div className="flex justify-center items-center gap-y-0 gap-x-4" id="hero-socials">
+                    <a
+                        href="https://www.linkedin.com/in/ntnhien"
+                        aria-label="LinkedIn"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-slate-400 transition-all duration-300 ease-in-out hover:text-slate-100"
+                    >
+                        <i className='bx bxl-linkedin-square bx-md' ></i>
+                    </a>
+                    <a
+                        href="https://github.com/Dragonaria"
+                        aria-label="GitHub"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-slate-400 transition-all duration-300 ease-in-out hover:text-slate-100"
+                    >
+                        <i className='bx bxl-github bx-md' ></i>
+                    </a>
                 </div>
             </div>
         </section>
