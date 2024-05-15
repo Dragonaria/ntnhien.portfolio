@@ -12,9 +12,9 @@ export default function Hero() {
                 className="w-200px h-200px rounded-full my-o mx-auto object-cover"
             />
             <div className="text-center my-4 mx-0 w-4/5" id="hero-text">
-                <h1 className="text-4xl font-semibold mb-4">
+                <h2 className="text-4xl font-semibold mb-4">
                     Hi, I&#39;m Hien Nguyen
-                </h1>
+                </h2>
                 <p className="text-lg font-normal mb-4">
                     I&#39;m a full-stack developer in Ho Chi Minh City, Vietnam.
                 </p>
