@@ -2,9 +2,9 @@
 
 export default function Footer() {
     return (
-        <footer>
+        <footer id="footer-container">
             <hr className="w-4/5 my-0 mx-auto"/>
-            <div className="footer-container flex justify-around items-center py-8 px-0">
+            <div className="flex justify-around items-center py-8 px-0">
                 <p className="text-slate-400">
                     {new Date().getFullYear()} Hien Nguyen&#39;s Portfolio
                 </p>
