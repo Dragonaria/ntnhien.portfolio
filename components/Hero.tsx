@@ -16,7 +16,7 @@ export default function Hero() {
                     Hi, I&#39;m Hien Nguyen
                 </h1>
                 <p className="text-lg font-normal mb-4">
-                    I'm a full-stack developer in Ho Chi Minh City, Vietnam.
+                    I&#39;m a full-stack developer in Ho Chi Minh City, Vietnam.
                 </p>
                 <div className="social-icons">
                     Socials
