@@ -10,7 +10,7 @@ export default function Navbar() {
                     Hien Nguyen
                 </Link>
             </div>
-            <a href="" className="bg-yellow-400 hover:bg-yellow-900 py-2 px-4 rounded-lg text-base font-semibold transition-all	inline-block">Resume</a>
+            <a href="" className="bg-amber-400 text-black hover:bg-slate-700 hover:text-slate-100 py-2 px-4 rounded-lg text-base font-semibold transition-all	inline-block">Resume</a>
         </nav>
     )
 }
