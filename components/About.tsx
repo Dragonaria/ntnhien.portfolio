@@ -28,7 +28,7 @@ export default function About() {
                     <Image
                         src={aboutPhoto}
                         alt="About section"
-                        className="w-full h-500px overflow-hidden object-cover border-2 border-solid border-slate-100 grayscale hover:scale-105"
+                        className="w-full h-500px overflow-hidden object-cover border-2 border-solid border-slate-100 grayscale transition-all duration-500 ease-in-out hover:scale-105"
                     />
                 </div>
             </div>
