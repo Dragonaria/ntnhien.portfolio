@@ -11,7 +11,7 @@ export default function Hero() {
                 alt="Profile picture"
                 className="w-200px h-200px rounded-full my-o mx-auto object-cover"
             />
-            <div className="text-center my-4 mx-0 w-4/5" id="hero-text">
+            <div className="text-center my-4 mx-0 w-full lg:w-4/5" id="hero-text">
                 <h2 className="text-4xl font-semibold mb-4">
                     Hi, I&#39;m Hien Nguyen
                 </h2>
